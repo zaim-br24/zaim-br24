@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @zaim-br24
+- 👋 Hi, I’m @Zaim Ibrahim
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on fullstack projects
-- 📫 How to reach me #instagram => #zaim_code ; #E-mail => coding.zabr@gmail.com
+- 🌱 I’m currently working on a full-stack MERN project 
+- 💞️ I’m looking to collaborate on full-stack MERN projects
+- 📫 How to reach me #instagram => #zaim_br ; #E-mail => coding.zabr@gmail.com
 
